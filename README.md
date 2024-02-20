@@ -1,4 +1,5 @@
-- 👋 Hello, this is Samuel NGUMA
+- 👋 Hello, this is NGUMA, Samuel C.
+I am a DevOps Engineer
 
 
 <!---
